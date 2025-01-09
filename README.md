@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jessie Cochran!  
 
 🛠️ **About Me**  
-I'm a detail-oriented **QA Engineer** passionate about testing and debugging.
+I'm a detail-oriented **QA Tester** passionate about testing and debugging.
 
 🌱 **Currently Learning**  
 Python for Automated Testing with **TripleTen**  
